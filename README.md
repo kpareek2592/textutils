@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and create a TextUtility Project
+
+This project will have the below features available:
+1. Convert to lowercase
+2. Convert to uppercase
+3. Count number of words and characters
+4. Calculate reading time
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
